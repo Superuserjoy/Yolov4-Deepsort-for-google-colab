@@ -1,4 +1,5 @@
 tensorflow-gpu==2.3.1
+tensorflow==2.3.1
 opencv-python==4.1.1.26
 lxml
 tqdm
@@ -6,5 +7,3 @@ absl-py
 matplotlib
 easydict
 pillow
-
-tensorflow==2.3.1
